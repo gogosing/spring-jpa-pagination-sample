@@ -8,7 +8,7 @@ import java.time.ZonedDateTime
  * 공통 조회 조건 Specification.
  * Created by JinBum Jeong on 2020/03/04.
  */
-class SharedSpecification {
+interface SharedSpecification {
 
     companion object {
 
